@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SaveData</string>
+    <string name="user_name">姓名</string>
+    <string name="hint_user_name">请输入用户名</string>
+    <string name="age_name">年龄</string>
+    <string name="hint_age_name">请输入年龄</string>
+    <string name="save_data">保存数据</string>
+    <string name="restroe_data">恢复数据</string>
+    <string name="btn_next">下一页</string>
+</resources>
